@@ -1,0 +1,15 @@
+je dois trouver le plus grand nombre premier qui divise
+notre nombre sans restes
+
+un nombre premier doit etre divisible par sois meme ou par 1
+pour savoir si un nombre est premier on peut essayer de le diviser
+par tout les nombres qui le compose mais c est trop long
+
+pour faire plus vite on sait que si le divisant est plus grand que 
+le quart a se moment la le nombre n a pas de diviseur 
+
+exemple avec 16
+4 x 4 = 16 pour savoir si le 16 est un nombre premier ou non on doit juste aller jusqu a son square
+si on a pas trouver de duvuseur dans le square c est que il n a pas
+
+
