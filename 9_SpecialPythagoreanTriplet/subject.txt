@@ -1,0 +1,29 @@
+A Pythagorean triplet is a set of three natural numbers, a \lt b \lt c, for which,
+a^2 + b^2 = c^2.
+For example, 3^2 + 4^2 = 9 + 16 = 25 = 5^2.
+There exists exactly one Pythagorean triplet for which $a + b + c = 1000$.Find the product abc.
+
+francais:
+
+Un triplet pythagoricien est un ensemble de trois nombres naturels, a < b < c, tels que :
+a² + b² = c².
+Par exemple, 3² + 4² = 9 + 16 = 25 = 5².
+Il existe un unique triplet pythagoricien tel que a + b + c = 1000. Déterminez le produit abc.
+
+3 regles du triplet
+
+-nombre entiers
+
+-l ordre a < b < c 
+
+-la somme des carres de a, b doit etre egale au carres c
+
+exemple :
+
+3**2 + 4**2 = 5**2 : 9 + 16 = 25
+
+Donc en gros pour etre plus clair
+
+les 3 nombres a, b, c doivent etre un triplet pythagoricien
+
+et que leur somme ensemble sans carrer doit etre 1000
