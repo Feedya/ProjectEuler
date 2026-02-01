@@ -1,0 +1,23 @@
+The following iterative sequence is defined for the set of positive integers:
+
+n to n / 2 (n is even)
+n to 3n + 1 (n is odd)
+Using the rule above and starting with 13, we generate the following sequence:
+13 to 40 to 20 to 10 to 5 to 16 to 8 to 4 to 2 to 1.
+It can be seen that this sequence (starting at 13 and finishing at 1) contains 10 terms. Although it has not been proved yet (Collatz Problem), it is thought that all starting numbers finish at 1.
+Which starting number, under one million, produces the longest chain?
+NOTE: Once the chain starts the terms are allowed to go above one million.
+
+Francais
+
+La suite itérative suivante est définie pour l'ensemble des entiers positifs :
+
+n à n/2 (n est pair)
+
+n à 3n + 1 (n est impair)
+
+En utilisant la règle ci-dessus et en commençant par 13, on obtient la suite suivante :
+13 → 40 → 20 → 10 → 5 → 16 → 8 → 4 → 2 → 1.
+On constate que cette suite (de 13 à 1) comporte 10 termes. Bien que cela n'ait pas encore été démontré (problème de Collatz), on suppose que toutes les suites, en partant de 1, se terminent par 1.
+Quel nombre initial, inférieur à un million, produit la plus longue suite ?
+Remarque : Une fois la suite amorcée, les termes peuvent dépasser un million.
