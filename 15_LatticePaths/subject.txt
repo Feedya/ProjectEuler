@@ -1,0 +1,11 @@
+Starting in the top left corner of a 2x2 grid, and only being able to move to the right and down,
+there are exactly 6 routes to the bottom right corner.
+
+How many such routes are there through a 20 x 20
+
+Francais : 
+
+En partant du coin supérieur gauche d'une grille 2x2 et en ne pouvant se déplacer que vers la droite et vers le bas,
+il existe exactement 6 chemins menant au coin inférieur droit.
+
+Combien de tels chemins existe-t-il dans une grille 20x20 ?
