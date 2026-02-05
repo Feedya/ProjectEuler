@@ -1,0 +1,28 @@
+
+You are given the following information, but you may prefer to do some research for yourself.
+
+1 Jan 1900 was a Monday.
+Thirty days has September,
+April, June and November.
+All the rest have thirty-one,
+Saving February alone,
+Which has twenty-eight, rain or shine.
+And on leap years, twenty-nine.
+
+A leap year occurs on any year evenly divisible by 4, but not on a century unless it is divisible by 400.
+How many Sundays fell on the first of the month during the twentieth century (1 Jan 1901 to 31 Dec 2000)?
+
+Francais : 
+
+Voici les informations fournies, mais vous pouvez effectuer vos propres recherches.
+
+Le 1er janvier 1900 était un lundi.
+Septembre,
+avril, juin et novembre comptent trente jours.
+Tous les autres mois en comptent trente et un,
+sauf février,
+qui en compte vingt-huit, qu'il pleuve ou qu'il fasse beau.
+Et vingt-neuf les années bissextiles.
+
+Une année bissextile a lieu toute année divisible par 4, sauf si le siècle est divisible par 400.
+Combien de dimanches tombaient le premier jour du mois au cours du XXe siècle (du 1er janvier 1901 au 31 décembre 2000) ?
