@@ -1,0 +1,11 @@
+Let d(n) be defined as the sum of proper divisors of n (numbers less than n which divide evenly into n).
+If d(a) = b and d(b) = a, where a ≠ b, then a and b are an amicable pair and each of a and b are called amicable numbers.
+For example, the proper divisors of 220 are 1, 2, 4, 5, 10, 11, 20, 22, 44, 55 and 110; therefore d(220) = 284. The proper divisors of 284 are 1, 2, 4, 71 and 142; so d(284) = 220.
+Evaluate the sum of all the amicable numbers under 10000.
+
+Francais :
+
+Soit d(n) la somme des diviseurs propres de n (les nombres inférieurs à n qui divisent n sans reste).
+Si d(a) = b et d(b) = a, où a ≠ b, alors a et b forment une paire de diviseurs amicaux et chacun d'eux est appelé un nombre amical.
+Par exemple, les diviseurs propres de 220 sont 1, 2, 4, 5, 10, 11, 20, 22, 44, 55 et 110 ; donc d(220) = 284. Les diviseurs propres de 284 sont 1, 2, 4, 71 et 142 ; donc d(284) = 220.
+Calculer la somme de tous les nombres amicaux inférieurs à 10 000.
