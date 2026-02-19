@@ -1,0 +1,34 @@
+
+A perfect number is a number for which the sum of its proper divisors is exactly equal to the number.
+For example, the sum of the proper divisors of 28 would be 1 + 2 + 4 + 7 + 14 = 28, which means that 28 is a perfect number.
+A number n is called deficient if the sum of its proper divisors is less than n and it is called abundant if this sum exceeds n.
+
+As 12 is the smallest abundant number, 1 + 2 + 3 + 4 + 6 = 16,
+the smallest number that can be written as the sum of two abundant numbers is 24.
+By mathematical analysis, it can be shown that all integers greater than 28123
+can be written as the sum of two abundant numbers. However, this upper limit cannot
+be reduced any further by analysis even though it is known that the greatest number that cannot
+be expressed as the sum of two abundant numbers is less than this limit.
+
+Find the sum of all the positive integers which cannot be written as the sum of two abundant numbers.
+
+Francais :
+
+Un nombre parfait est un nombre dont la somme des diviseurs propres est exactement égale à lui.
+
+Par exemple, la somme des diviseurs propres de 28 est 1 + 2 + 4 + 7 + 14 = 28, ce qui signifie que 28 est un nombre parfait.
+
+Un nombre n est dit déficient si la somme de ses diviseurs propres est inférieure à n et dit abondant si cette somme est supérieure à n.
+
+Comme 12 est le plus petit nombre abondant, et que 1 + 2 + 3 + 4 + 6 = 16,
+
+le plus petit nombre pouvant s'écrire comme la somme de deux nombres abondants est 24.
+
+Par une analyse mathématique, on peut démontrer que tous les entiers supérieurs à 28123
+
+peuvent s'écrire comme la somme de deux nombres abondants. Cependant, cette limite supérieure ne peut être
+déterminée par une analyse plus poussée, même si l'on sait que le plus grand nombre qui ne peut pas
+s'écrire comme la somme de deux nombres abondants est inférieur à cette limite.
+
+Trouvez la somme de tous les entiers positifs qui ne peuvent pas s'écrire comme la somme de deux nombres abondants.
+
