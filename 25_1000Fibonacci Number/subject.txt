@@ -1,0 +1,44 @@
+
+The Fibonacci sequence is defined by the recurrence relation:
+F_n = F_{n - 1} + F_{n - 2}, where F_1 = 1 and F_2 = 1.
+Hence the first 12 terms will be:
+
+F_1 = 1
+F_2 = 1
+F_3 = 2
+F_4 = 3
+F_5 = 5
+F_6 = 8
+F_7 = 13
+F_8 = 21
+F_9 = 34
+F_{10} = 55
+F_{11} = 89
+F_{12} = 144
+
+The 12th term, F_{12}, is the first term to contain three digits.
+What is the index of the first term in the Fibonacci sequence to contain 1000 digits?
+
+Francais:
+
+La suite de Fibonacci est définie par la relation de récurrence :
+
+F_n = F_{n-1} + F_{n-2}, où F_1 = 1 et F_2 = 1.
+
+Les douze premiers termes sont donc :
+
+F_1 = 1
+F_2 = 1
+F_3 = 2
+F_4 = 3
+F_5 = 5
+F_6 = 8
+F_7 = 13
+F_8 = 21
+F_9 = 34
+F_10 = 55
+F_11 = 89
+F_12 = 144
+
+Le douzième terme, F_12, est le premier terme à trois chiffres.
+Quel est l’indice du premier terme de la suite de Fibonacci à 1000 chiffres ?
